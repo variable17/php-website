@@ -35,8 +35,8 @@
     
   <link rel="stylesheet" type="text/css" href="css/slick.css">
   <link rel="stylesheet" type="text/css" href="css/slick-theme.css">
-    
-      <link rel="stylesheet" href="awesome/css/font-awesome.min.css">
+   
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900" type="text/css">
 	<link rel="stylesheet" href="https://rawgit.com/LeshikJanz/libraries/master/Bootstrap/baguetteBox.min.css">
 	</head>
@@ -60,6 +60,7 @@
 	<section class="contact__form__09890">
 		<div class="container">
 		
+<!--
 		<div class="col-md-7 sdf">
 		<div class="contact-box contact-box-alt">
 	                        <div class="text-head text-celnter">
@@ -89,39 +90,58 @@
 			
 			</div>
 			
-			<div class="col-md-5 sdf">
-			<div class="bg-dark p-a20 text-white">                               
+-->
+			<div class="col-md-12">
+			<div class="bg-dark p-a20 text-white">   
+                                        <div class="col-md-4">
                                         <div class="mt-icon-box-wraper left p-b40">
                                             <div class="icon-xs"><i class="fa fa-phone"></i></div>
                                             <div class="icon-content">
                                                 <h5 class="m-t0 font-weight-500">Phone number</h5>
-                                                <p>(123) 456-78910</p>
+                                                <p>+91 8061914280</p>
                                             </div>
                                         </div>
-                                        
+                </div>
+                                        <div class="col-md-4">
+                 
+
+                                          <div class="mt-icon-box-wraper left p-b40">
+                                            <div class="icon-xs"><i class="fa fa-whatsapp"></i></div>
+                                            <div class="icon-content">
+                                                <h5 class="m-t0 font-weight-500">Whatsapp</h5>
+                                                <p>+91 8587803172</p>
+                                            </div>
+                                        </div>
+                </div>
+                <div class="col-md-4">
                                         <div class="mt-icon-box-wraper left p-b40">
                                             <div class="icon-xs"><i class="fa fa-envelope"></i></div>
                                             <div class="icon-content">
                                                 <h5 class="m-t0 font-weight-500">Email address</h5>
-                                                <p>websitename@gmail.com</p>
+                                                <p>rx@caredose.com</p>
                                             </div>
                                         </div>
+                </div>
                                         
-                                        <div class="mt-icon-box-wraper left">
+                                    </div>
+            </div>
+            <div class="col-md-12">
+            <div class="bg-dark p-a20 text-white">  
+            <div class="mt-icon-box-wraper left">
                                             <div class="icon-xs"><i class="fa fa-map-marker"></i></div>
                                             <div class="icon-content">
                                                 <h5 class="m-t0 font-weight-500">Address info</h5>
-                                                <p>09, Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                                                <p>B1/ H4, Mohan co-operative industrial estate, Mathura road, New Delhi </p>
                                             </div>
                                         </div>
-                                    </div>
 			</div>
-			
+            </div>
 		</div>
 		</section>
 	
 
 		
+<!--
 		<section class="our__team">
 		
 		<div class="container">
@@ -192,9 +212,10 @@
 			</div>
 			</div>
 		</section>
+-->
 		
 		
-		<section class="testimonials ___neww">
+<!--	<section class="testimonials ___neww">
 	
 <div class="container content">
 	
@@ -203,13 +224,13 @@
 	</div>
    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
       <!-- Indicators --> 
-      <ol class="carousel-indicators">
+  <!--    <ol class="carousel-indicators">
          <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
          <li data-target="#carousel-example-generic" data-slide-to="1"></li>
         
       </ol>
       <!-- Wrapper for slides --> 
-      <div class="carousel-inner">
+     <!-- <div class="carousel-inner">
          <div class="item active">
             <div class="row">
                <div class="col-md-4 col-xs-12">
@@ -340,10 +361,27 @@ Taking my medicines on time has never been easier, even while travelling.
          
       </div>
 <!--       <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left"></span> </a> <a class="right carousel-control" href="#carousel-example-generic" data-slide="next"> <span class="glyphicon glyphicon-chevron-right"></span> </a> -->
-   </div>
+<!--   </div>
 </div>
 
-		</section>	
-		
+		</section>	-->
+		<style>
+        
+        
+        .fa {
+    display: inline-block;
+    font: normal normal normal 9px/1 FontAwesome;
+    
+    font-size: 50px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+            .icon-content {
+    float: left;
+    width: 93%;
+    margin-top: 28px;
+}
+        </style>
 		
 	<?php include("footer.php") ?>
