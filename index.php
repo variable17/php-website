@@ -24,8 +24,11 @@
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
   
-		<title>CareDose
-</title>
+		<title>CareDose |Best Online Medicine Delivery App</title>
+    <meta name="description" content="Access all Your Health Care Needs at Best Prices at your doorstep with our online medicine home delivery facility. One stop shop for your healthcare needs. ">
+    
+     <link rel="canonical" href="" />
+    
  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
       
     <link rel="stylesheet" type="text/css" href="css/plugin1.min.css">
@@ -286,6 +289,43 @@
 			
 			</div>
 		</section>
+        <section class="ctaform">
+            <div class="blue-gradient-band_homeemai_l">
+      <div class="container">
+         <div class="columns-2">
+            <div class="col-md-12 ">
+               <div class="col-md-7 nopading">
+                  <div class="email_form">
+                     <p class="want">Would you like to try this FREE service?
+                        <strong> Subscribe to our updates</strong>
+                     </p>
+                  </div>
+               </div>
+               <div class="col-md-5 nopading">
+                  <form data-url="#" class="js_ajax-forms">
+                     <div class="col-md-9 col-xs-9">
+                        <div class="home_email">
+                           <input type="email" name="email" placeholder="email@example.com" required="">
+                           <input type="hidden" name="type" value="news_letter">
+                        </div>
+                     </div>
+                     <div class="col-md-3 col-xs-3">
+                        <div class="home_email_submit">
+                           <input class="submit_buttons" type="submit" name="submit_button" value="Subscibe">
+                        </div>
+                     </div>
+                  </form>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+        
+        
+        
+        
+        
+        </section>
         
         
         <section class="why_us_po">
@@ -293,7 +333,7 @@
 			
 			<div class="col-md-12">
 				
-				<div class="col-md-6 addback__g" style="background: url(images/leftimg.jpg); background-attachment: fixed; height: 100%;">
+				<div class="col-md-6 addback__g" style="background: url(images/leftimg.jpg); background-attachment: fixed; height: 100%;position: absolute;">
 			<div class="pagenum">
     <span class="ste__0">Step</span> <input class="noborders" type="text" readonly id="pagenum">
 </div>
@@ -607,7 +647,7 @@ Taking my medicines on time has never been easier, even while travelling.
 				
 				<p>To ensure zero human error, we organize your medicines via DoseDroid, a packaging robot that sorts and pouches your medicines as per your prescription(s). It has in-built quality controls to ensure that medicines are packed correctly.</p>
 				
-<!--				<p class="buttonss"><a href="organize.php">Read More</a></p>-->
+		<p class="buttonss"><a href="organize.php">Read More</a></p>
 				</div>
 			</div>
 			
@@ -640,7 +680,7 @@ innovative and user-friendly ecosystem.<br>
 					
 				<div class="clients-section-item">
 
-														<a href="#">
+														<a href="https://www.forbes.com/profile/gauri-angrish/#3da759fb5111">
 								<img class="clients-section-item-pic lazyloaded" src="images/featured optimized/1.png" alt="" width="130">
 							</a>
 							
@@ -660,7 +700,7 @@ innovative and user-friendly ecosystem.<br>
 					
 						<div class="clients-section-item">
 
-														<a href="#">
+														<a href="https://community.nasscom.in/docs/DOC-1637">
 								<img class="clients-section-item-pic lazyloaded" src="images/featured optimized/3.png" alt="" width="160">
 							</a>
 							
@@ -668,7 +708,7 @@ innovative and user-friendly ecosystem.<br>
 
 					<div class="clients-section-item">
 
-														<a href="#">
+														<a href="https://inc42.com/buzz/bioasia-2019-in-telangana-here-are-the-top-5-life-sciences-and-healthcare-startups/">
 								<img class="clients-section-item-pic lazyloaded" src="images/featured optimized/7.png" alt="" width="140">
 							</a>
 		   					
@@ -688,14 +728,14 @@ innovative and user-friendly ecosystem.<br>
 -->
 						<div class="clients-section-item">
 
-														<a href="#">
+														<a href="https://yourstory.com/2018/03/forgot-take-medicines-delhi-ncr-based-caredose-will-help-remember?utm_pageloadtype=scroll">
 									<img class="#" src="images/featured optimized/10.png"  alt="" width="136">
 							</a>
 							
 						</div>
 	<div class="clients-section-item">
 
-														<a href="#">
+														<a href="https://www.business-standard.com/article/pti-stories/caredose-launches-mobile-app-to-help-patients-adhere-to-medication-119071600562_1.html">
 								<img class="clients-section-item-pic lazyloaded" src="images/featured optimized/4.png" alt="" width="160">
 							</a>
 							
@@ -705,30 +745,29 @@ innovative and user-friendly ecosystem.<br>
 						
 					
 						<div class="clients-section-item">
-
-					<img class="#" src="images/featured optimized/8.png"  alt="" width="130">
+<a href="https://www.theweek.in/wire-updates/national/2018/12/08/des11-dl-tb-initiative.html">
+    <img class="clients-section-item-pic lazyloaded" src="images/featured optimized/8.png"  alt="" width="130"></a>
 							
 						</div>
-
 					
 						<div class="clients-section-item">
 
-														<a href="#">
+														<a href="https://www.vccircle.com/nasdaq-entrepreneurial-center-selects-15-finalists-for-india-programme/">
 								<img class="clients-section-item-pic lazyloaded" src="images/featured optimized/9.png"  alt="" width="130">
 							</a>
 							
 						</div>
                     	<div class="clients-section-item">
 
-														<a href="#">
-									<img class="#" src="images/featured optimized/6.png"  alt="" width="136">
+														<a href="https://www.facebook.com/watch/?v=667308886969837&external_log_id=5d61547471922e5461998f04420df3a8&q=news%20x%20%23girlpower">
+									<img class="clients-section-item-pic lazyloaded" src="images/featured optimized/6.png"  alt="" width="136">
 							</a>
 							
 						</div>
                     	<div class="clients-section-item">
 
-														<a href="#">
-								<img class="clients-section-item-pic lazyloaded" src="images/featured optimized/livemint.png"  alt="" width="130">
+														<a href="https://www.livemint.com/Leisure/NFflREWrNqpuVMlDnaAbsI/Beautiful-and-bizarre-things-to-buy-From-wearable-art-to-ti.html">
+								<img class="clients-section-item-pic lazyloaded" src="images/featured optimized/livemint.png"  alt="" width="110">
 							</a>
 							
 						</div>
@@ -828,6 +867,21 @@ innovative and user-friendly ecosystem.<br>
 </div>
         
         <style>
+            
+            @media screen and (min-width:370px) and (max-width:740px) {
+            .home_email input {
+    width: 100%;
+    padding: 7px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    margin-left: -14px;
+}
+                
+                .home_email_submit {
+    margin-left: -26px;
+    /* margin-right: -1px; */
+}
+            }
         @media screen and (min-width:500px) and (max-width:819px) {
 .modal-content {
     position: relative;
@@ -845,19 +899,18 @@ box-shadow: 0 3px 9px
     rgba(0,0,0,.5);
     width: 63%;
 }
-            
-            .why__us {
-float: left;
-width: 100%;
-background: #eee;
-margin-top: 0px;
-padding-top: 68px;
-padding-bottom: 44px;
-position: relative;
-z-index: 9999;
-height: 900px;
-}
-            
+@media screen and (max-width: 819px) and (min-width: 500px)
+.why__us {
+    float: left;
+    width: 100%;
+    background: #eee;
+    margin-top: 0px;
+    padding-top: 68px;
+    padding-bottom: 44px;
+    position: relative;
+    z-index: 9999;
+    height: auto;
+}      
             .modalcardeoseform {
 position: relative;
 background-color: #fff;
@@ -871,6 +924,53 @@ outline: 0;
 box-shadow: 0 3px 9px rgba(0,0,0,.5);
 width: 100%!important;
 }
+}
+            
+            .blue-gradient-band_homeemai_l {
+    float: left;
+    width: 100%;
+}
+   
+.blue-gradient-band_homeemai_l {
+    background: #ed4b62;
+    padding: 26px 0 26px 0;
+    position: relative;
+    z-index: 999;
+}
+            .nopading {
+    padding: 0px;
+}
+            .email_form {
+    position: relative;
+    top: 5px;
+}
+            .email_form p {
+    color: 
+    #fff;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;
+}
+            .want {
+    font-size: 18px !important;
+}
+            .home_email input {
+    width: 100%;
+    padding: 7px;
+    border: 1px solid 
+    #fff;
+    border-radius: 4px;
+}
+            .submit_buttons {
+    background: 
+transparent;
+border: 2px solid
+#fff;
+width: 112px;
+padding: 6px;
+color:
+    #fff;
+    border-radius: 4px;
 }
      </style>
 

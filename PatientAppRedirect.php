@@ -27,10 +27,10 @@
             if (os === 'Android') {
                 window.location.href = 'https://play.google.com/store/apps/details?id=com.caredose.caredose_patient_app&hl=en_IN';
             } else if (os === 'iOS') {
-                // window.location.href = 'http://www.caredose.com';
-                window.location.href = 'https://apps.apple.com/in/app/caredose/id1468529008';
-            } else {
                 window.location.href = 'http://www.caredose.com';
+                // window.location.href = 'https://apps.apple.com/in/app/caredose/id1468529008';
+            } else {
+                // window.location.href = 'http://www.caredose.com';
             }
         }
     </script>

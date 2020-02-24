@@ -31,13 +31,11 @@
 				<div class="footer__contents">
 				<ul class="menus_ection">
         
-<!--
         <li><a href="index.php">Home</a></li> 
         <li><a href="about.php">  About us  </a></li> 
--->
                        
-<!--                       <li><a href="organize.php">  How we organise </a></li>-->
-<!--        <li><a href="contact.php"> Contact Us</a></li> -->
+                       <li><a href="organize.php">  How we organise </a></li>
+  <li><a href="contact.php"> Contact Us</a></li> 
        
             
             </ul>
@@ -58,7 +56,7 @@
 			  
           <div class="lower-footer">
 
-              <div class="copyright is-hidden-mobile"><small class="copya">Copyright © 2020 caredose. All rights reserved. Designed by <a href="https:://www.makemaya.com">Makemaya</a></small>
+              <div class="copyright is-hidden-mobile"><small class="copya">Copyright © 2020 caredose. All rights reserved.</small>
               </div>
           </div>
 			  </div>

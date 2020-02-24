@@ -2029,6 +2029,12 @@ small {
            .mediaunesco {
     width: 93% !important;
 }
+           
+           .new_section1122{
+               
+              display: block !important;
+               
+           }
            .clicktoggle {
     position: absolute;
     right: 0px;
@@ -2240,6 +2246,17 @@ body {
 	height: 371px;
 	background-size: cover;
 }
+.video__section__saboutus {
+    background: url("../images/video__0.jpg");
+        background-size: auto;
+    background-size: auto;
+    background-size: auto;
+    float: left;
+    width: 100%;
+    height: 230px;
+    background-size: cover;
+    margin-top: 61px;
+}
 
 
 .about__00 {
@@ -2445,15 +2462,16 @@ body {
 	left: 16%;
 }
 
-   .page {
-height: 508px;
+
+
+ .page {
+height: 507.9px;
 border: none;
 margin: 0px;
 overflow: 0;
 /* opacity: 0; */
 padding: 95px 105px 51px 76px;
 }
-
 .col-md-6.addback__g {
 	
 	text-align: center;
@@ -2508,10 +2526,50 @@ padding: 95px 105px 51px 76px;
 	overflow: 0;
 	/* opacity: 0; */
 	padding: 95px 105px 51px 76px;
-}
+	  }}
+	  @media screen and (min-width:1401px) and (max-width:1500px) {
       
+	  @media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: 0.001dpcm){
+.page {
+    height: 420.1px;
+    border: none;
+    margin: 0px;
+    overflow: 0;
+    /* opacity: 0; */
+    padding: 95px 105px 51px 76px;
+}
          
 }
+	  }
+	  
+	  
+	@media screen and (min-width:1501px) and (max-width:1900px) {
+      
+	  @media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: 0.001dpcm){
+.page {
+        height: 422.7px;
+
+    border: none;
+    margin: 0px;
+    overflow: 0;
+    /* opacity: 0; */
+    padding: 95px 105px 51px 76px;
+}
+		}}
+		   @media screen and (min-width:1401px) and (max-width:1500px) {
+		  
+		  	  @media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: 0.001dpcm){
+.page {
+      height: 464.1px;
+    border: none;
+    margin: 0px;
+    overflow: 0;
+    /* opacity: 0; */
+    padding: 95px 105px 51px 76px;
+}
+         
+}
+	  }
 #page-3 {
 	background: #eee;
 }
@@ -2909,8 +2967,29 @@ rgb(0, 0, 0);
 	font-size: 17px;
 	font-weight: 400;
 }
-
-
+@media screen and (min-width:1300px) and (max-width:1400px) {
+    
+    
+    
+    @media screen and (-webkit-min-device-pixel-ratio: 0) and (min-resolution: 0.001dpcm){
+.page {
+    height: 420.1px!important;
+    border: none;
+    margin: 0px;
+    overflow: 0;
+    /* opacity: 0; */
+    padding: 95px 105px 51px 76px;
+}
+    }
+    
+    
+    .p___00 h3 {
+    font-weight: 500;
+    padding-top: 20px;
+    text-transform: ;
+    font-size: 39px;
+}
+}
 
 @media screen and (min-width:1100px) and (max-width:1300px) {
 	
@@ -2918,6 +2997,37 @@ rgb(0, 0, 0);
 	font-size: 87px;
 	
 	
+}
+    
+    .clients-section-list .clients-section-item {
+    float: left;
+    width: 31%;
+    height: 86px;
+    text-align: center;
+    padding-top: 17px;
+    margin-bottom: 11px;
+    margin-right: 10px;
+}
+    
+    
+    @media screen and (-webkit-min-device-pixel-ratio:0)
+  and (min-resolution:.001dpcm) {
+
+.page {
+	height: 463.7px!important;
+	border: none;
+	margin: 0px;
+	overflow: 0;
+	/* opacity: 0; */
+	padding: 95px 105px 51px 76px;
+}
+      
+         
+}
+   
+ .p___00 {
+    float: right;
+    width: 97%;
 }
 
 	.cont__font__09 h3 {
@@ -2944,12 +3054,12 @@ rgb(0, 0, 0);
 	margin-top: -96px;
 }
 	.step__one__img img {
-	width: 191px;
-	box-shadow: 0 0 4px -1px #000;
-	border-radius: 66%;
-	margin-top: -5px;
-	float: left;
-	margin-right: 29px;
+    width: 143px;
+    box-shadow: 0 0 4px -1px #000;
+    border-radius: 66%;
+    margin-top: -5px;
+    float: left;
+    margin-right: 30px;
 }
 	
 	.p___00 h3 {
@@ -2959,20 +3069,21 @@ rgb(0, 0, 0);
 	font-size: 31px;
 }
 	
+
 .page {
-	height: 376.3px;
-	border: none;
-	margin: 0px;
-	overflow: 0;
-	/* opacity: 0; */
-	padding: 82px 14px 46px 35px;
-	width: 50%;
-	float: right;
+    height: 376.3px;
+    border: none;
+    margin: 0px;
+    overflow: 0;
+    /* opacity: 0; */
+    padding: 82px 14px 46px 35px;
+    width: 51%;
+    float: right;
 }
 	
 	.d___0 {
 	float: left;
-	width: 58%;
+	width: 55%;
 }
 	.p___00 p {
 	color: #000;
@@ -3200,6 +3311,7 @@ rgb(0, 0, 0);
 	font-family: Roboto;
 	font-size: 17px;
 	font-weight: 400;
+    margin-left: 6px;
 }
 	
 	.icon_0923 {
@@ -3443,6 +3555,7 @@ body {
 	font-weight: 900;
 	color: transparent;
 	display: inline-block;
+        letter-spacing: 0.06em;
 	-webkit-animation-delay: .7s;
 	animation-delay: .7s;
 	-webkit-text-stroke: 1px rgb(0, 0, 0);
@@ -3648,9 +3761,18 @@ display: none;
 }
     
 .contact-modal .modal-header .close {
-    margin-top: -37px !important;
+    margin-top: -37px;
     font-size: 40px !important;
     margin-right: 32px !important;
+}
+    
+                .close.closetrynow {
+
+    margin-top: 0px !important;
+    color: 
+
+    #000;
+
 }
 button.close {
     -webkit-appearance: none;
@@ -3724,7 +3846,10 @@ and(-webkit-min-device-pixel-ratio:0) { @media
 
 
 
-
+  .new_section1122{
+        
+        display: none;
+    }
 
 
 
@@ -3750,8 +3875,8 @@ and(-webkit-min-device-pixel-ratio:0) { @media
 }
 
 .col-md-12.dfdg {
-	margin-top: 36px;
-	width: 97%;
+    margin-top: 36px;
+    width: 100%;
 }
 
 .dfdg .team__footer__s {
@@ -3788,29 +3913,34 @@ and(-webkit-min-device-pixel-ratio:0) { @media
 }
 
 .form-set textarea {
-	border: 1px solid #00000029;
-	color: #333755;
-	height: 110px;
-	margin-top: 20px;
-	padding-left: 25px;
-	padding-top: 15px;
-	width: 100%;
-	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
-	background: #fff;
+    border: 1px solid 
+#00000029;
+color:
+#333755;
+height: 110px;
+margin-top: 0px;
+padding-left: 16px;
+padding-top: 7px;
+width: 100%;
+font-family: 'Roboto', sans-serif;
+font-size: 14px;
+background:
+    #fff;
 }
 .btn.send__message {
-	background: #444;
-	color: #fff;
-	float: left;
-	margin-top: -3px;
-	border-radius: 2px;
-	padding: ;
-	height: 53px;
-	font-size: 19px;
-	letter-spacing: 7px;
+    background: 
+#444;
+color:
+    #fff;
+    float: left;
+    margin-top: -3px;
+    border-radius: 2px;
+    padding: ;
+    height: 53px;
+    font-size: 19px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 }
-
 .contact__form__09890 {
 	text-align: left;
 }
